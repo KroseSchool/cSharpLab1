@@ -30,7 +30,7 @@ namespace lab1KevinRose
 
         public myPictureBoxForm()
         {
-            // Generate PictureBoxForm from Form generic Class.
+            // Initialize PictureBoxForm from Form generic Form Class.
             InitializeComponent();
         }
 
@@ -53,43 +53,46 @@ namespace lab1KevinRose
             Close();
         }
 
-        // calls clearPictureBoxes, which turns visibility property off for all pictureboxes
+        
         private void clearButton_Click(object sender, EventArgs e)
         {
+            // calls clearPictureBoxes, which turns visibility property off for all pictureboxes
             clearPictureBoxes();
         }
 
-        // on click of first pics label, clear PictureBoxes, show only first pic
         private void fristPictureLabel_Click(object sender, EventArgs e)
         {
+            // on click of first pics label, clear PictureBoxes, show only first pic
             clearPictureBoxes();
             firstPictureBox.Visible = true;
         }
         
-        // on click of second pic label, clear PictureBoxes, show only second pic
         private void secondPictureLabel_Click(object sender, EventArgs e)
         {
+            // on click of second pic label, clear PictureBoxes, show only second pic
             clearPictureBoxes();
             secondPictureBox.Visible = true;
         }
 
-        // on click of third pic label, clear PictureBoxes, show only third pic
+
         private void thirdPictureLabel_Click(object sender, EventArgs e)
         {
+            // on click of third pic label, clear PictureBoxes, show only third pic
             clearPictureBoxes();
             thirdPictureBox.Visible = true;
         }
 
-        // on click of fourth pic label, clear PictureBoxes, show only fourth pic
+       
         private void fourthPictureLabel_Click(object sender, EventArgs e)
         {
+            // on click of fourth pic label, clear PictureBoxes, show only fourth pic
             clearPictureBoxes();
             fourthPictureBox.Visible = true;
         }
-        // on click of fifth pic label, clear PictureBoxes, show only fifth pic
+        
         private void fifthPictureLabel_Click(object sender, EventArgs e)
         {
-
+            // on click of fifth pic label, clear PictureBoxes, show only fifth pic
             clearPictureBoxes();
             fifthPictureBox.Visible = true;
         }
