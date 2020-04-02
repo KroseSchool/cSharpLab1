@@ -16,7 +16,7 @@ namespace lab1KevinRose
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new myPictureBoxForm());
+            Application.Run(new lab1KevinRose());
         }
     }
 }

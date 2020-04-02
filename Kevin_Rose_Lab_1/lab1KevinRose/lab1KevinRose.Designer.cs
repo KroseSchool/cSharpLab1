@@ -1,6 +1,6 @@
 ﻿namespace lab1KevinRose
 {
-    partial class myPictureBoxForm
+    partial class lab1KevinRose
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(myPictureBoxForm));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(lab1KevinRose));
             this.titleLabel = new System.Windows.Forms.Label();
             this.firstPictureLabel = new System.Windows.Forms.Label();
             this.secondPictureLabel = new System.Windows.Forms.Label();

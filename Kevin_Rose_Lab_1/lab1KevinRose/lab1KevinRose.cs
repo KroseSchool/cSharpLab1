@@ -25,10 +25,10 @@ names ?
 
 namespace lab1KevinRose
 {
-    public partial class myPictureBoxForm : Form
+    public partial class lab1KevinRose : Form
     {
 
-        public myPictureBoxForm()
+        public lab1KevinRose()
         {
             // Initialize PictureBoxForm from Form generic Form Class.
             InitializeComponent();
@@ -50,7 +50,7 @@ namespace lab1KevinRose
         {
             // on exit button click, will close form, after notifying user via dialogue box
             MessageBox.Show("This will terminate the program");
-            Close();
+            this.Close();
         }
 
         
