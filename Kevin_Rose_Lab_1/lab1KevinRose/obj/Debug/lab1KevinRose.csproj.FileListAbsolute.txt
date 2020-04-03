@@ -12,9 +12,9 @@ C:\Users\Kevin\Documents\PCC\CIS133N\WeekOne\Kevin_Rose_Lab_1\lab1KevinRose\bin\
 C:\Users\Kevin\Documents\PCC\CIS133N\WeekOne\Kevin_Rose_Lab_1\lab1KevinRose\bin\Debug\lab1KevinRose.exe
 C:\Users\Kevin\Documents\PCC\CIS133N\WeekOne\Kevin_Rose_Lab_1\lab1KevinRose\bin\Debug\lab1KevinRose.pdb
 C:\Users\Kevin\Documents\PCC\CIS133N\WeekOne\Kevin_Rose_Lab_1\lab1KevinRose\obj\Debug\lab1KevinRose.csprojAssemblyReference.cache
-C:\Users\Kevin\Documents\PCC\CIS133N\WeekOne\Kevin_Rose_Lab_1\lab1KevinRose\obj\Debug\lab1KevinRose.myPictureBoxForm.resources
 C:\Users\Kevin\Documents\PCC\CIS133N\WeekOne\Kevin_Rose_Lab_1\lab1KevinRose\obj\Debug\lab1KevinRose.Properties.Resources.resources
 C:\Users\Kevin\Documents\PCC\CIS133N\WeekOne\Kevin_Rose_Lab_1\lab1KevinRose\obj\Debug\lab1KevinRose.csproj.GenerateResource.cache
 C:\Users\Kevin\Documents\PCC\CIS133N\WeekOne\Kevin_Rose_Lab_1\lab1KevinRose\obj\Debug\lab1KevinRose.csproj.CoreCompileInputs.cache
 C:\Users\Kevin\Documents\PCC\CIS133N\WeekOne\Kevin_Rose_Lab_1\lab1KevinRose\obj\Debug\lab1KevinRose.exe
 C:\Users\Kevin\Documents\PCC\CIS133N\WeekOne\Kevin_Rose_Lab_1\lab1KevinRose\obj\Debug\lab1KevinRose.pdb
+C:\Users\Kevin\Documents\PCC\CIS133N\WeekOne\Kevin_Rose_Lab_1\lab1KevinRose\obj\Debug\lab1KevinRose.lab1KevinRose.resources

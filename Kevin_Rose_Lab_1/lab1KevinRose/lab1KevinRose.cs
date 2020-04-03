@@ -13,14 +13,9 @@ Name:   Kevin Rose
 Date:   3/31/2020
 
 Purpose:
-Displays pictures of numbers when user clicks on corresponding label.
+Displays picture of number when user clicks on corresponding label.
 Clear button will reset form, showing no number pictures.
 Exit button will display prompt, notifying user that program will terminate, then exit program.
-
-TODO
-this. ?
-names ?
-
 */
 
 namespace lab1KevinRose
